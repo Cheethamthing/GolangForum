@@ -30,6 +30,6 @@ A new database will be created during the initialization process.
 - Google and GitHub authentication
 
 ## Team Members
-- Captain Rupert C. - [GitHub](https://github.com/Cheethamthing)
+- Rupert C. (Captain) - [GitHub](https://github.com/RupertCheetham)
 - Nikoi K. - [GitHub](https://github.com/kn1ko1)
 - Martin F. - [GitHub](https://github.com/m-fenton)
